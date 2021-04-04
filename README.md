@@ -1,0 +1,2 @@
+# hangman-console
+ guess word

@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1591073780 source:c:\users\administrator\desktop\it\hangman\my big bt\hangman\hangman.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+	<thread>
+	<chrono>
+	<windows.h>
+	"draw.h"
+	"utility.h"
+	"prepare.h"
+
+1590476047 c:\users\administrator\desktop\it\hangman\my big bt\hangman\draw.h
+	<string>
+
+1589856006 c:\users\administrator\desktop\it\hangman\my big bt\hangman\utility.h
+	<string>
+
+1590804374 source:c:\users\administrator\desktop\it\hangman\my big bt\hangman\utility.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1590478883 source:c:\users\administrator\desktop\it\hangman\my big bt\hangman\draw.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<thread>
+
+1590478730 c:\users\administrator\desktop\it\hangman\my big bt\hangman\prepare.h
+	<string>
+
+1591073056 source:c:\users\administrator\desktop\it\hangman\my big bt\hangman\prepare.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<thread>
+	<string>
+	<windows.h>
+	<conio.h>
+

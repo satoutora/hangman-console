@@ -1,0 +1,4 @@
+run
+fly
+sit
+sleep
